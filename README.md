@@ -1,8 +1,9 @@
 # [Detection] Made by CaliFerr
 Using only the security cameras scattered around the location, detect and survive the mysterious anomalies that occur in the facility. 
 ***
-[Download.mcpack](https://github.com/CaliFerr/detection/blob/main/%C2%A74%C2%A7lDetection.mcworld)
-[Download.zip](https://github.com/CaliFerr/detection/blob/main/%C2%A74%C2%A7lDetection.zip)
+[Download: .mcpack](https://github.com/CaliFerr/detection/blob/main/%C2%A74%C2%A7lDetection.mcworld)
+
+[Download: .zip](https://github.com/CaliFerr/detection/blob/main/%C2%A74%C2%A7lDetection.zip)
 
 # Features:
 Survive the facility by reporting the horrifying anomalies. Be careful not to miss any, or you risk failing your shift.  
