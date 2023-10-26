@@ -1,8 +1,8 @@
 # [Detection] Made by CaliFerr
 Using only the security cameras scattered around the location, detect and survive the mysterious anomalies that occur in the facility. 
 ***
-Download.mcpack(detection/detection.mcpack)
-Download.zip(detection/detection.sip)
+Download.mcpack(detection/§4§lDetection.mcworld.mcpack)
+Download.zip(detection/§4§lDetection.mcworld.sip)
 
 # Features:
 Survive the facility by reporting the horrifying anomalies. Be careful not to miss any, or you risk failing your shift.  
