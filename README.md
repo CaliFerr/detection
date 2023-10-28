@@ -1,4 +1,4 @@
-# [Detection] Made by CaliFerr
+# [Detection 1.0.1] Made by CaliFerr
 Using only the security cameras scattered around the location, detect and survive the mysterious anomalies that occur in the facility. 
 ***
 [Download: .mcpack](https://github.com/CaliFerr/detection/raw/main/%C2%A74%C2%A7lDetection.mcworld)
