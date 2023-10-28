@@ -25,3 +25,10 @@ Key Note
 Rate of anomalies will double after some time
 This map has jump scares and flashing discretion is advised
 Please do not take claim anything from this map as your own
+
+
+1.0.1 - #Day One
+- Fixed various bugs
+- Adjusted anomalies that were too hard to notice
+- Added Soccer mini-game
+- Added Guide
