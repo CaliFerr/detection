@@ -1,4 +1,4 @@
-# [Detection] 1.0.1 Made by CaliFerr
+# [Detection] 1.0.2 Made by CaliFerr
 Using only the security cameras scattered around the location, detect and survive the mysterious anomalies that occur in the facility. 
 ***
 [Download: mctemplate](https://github.com/CaliFerr/detection/raw/main/%C2%A74%C2%A7lDetection.mctemplate)
@@ -23,10 +23,16 @@ Anomalies:
 - Spiritual Anomaly: Reports any spiritual abnormalities
 
 
-Key Note
+Key Notes
 Rate of anomalies will double after some time
 This map has jump scares and flashing discretion is advised
 Please do not take claim anything from this map as your own
+
+# 1.0.2 - Win Win Win!
+- Fixed various bugs
+- New win game sound effect!
+- Tweaked Intruder behavior
+- Added score counters to Soccer mini-game
 
 
 # 1.0.1 - Day One
