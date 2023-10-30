@@ -24,8 +24,11 @@ Anomalies:
 
 
 Key Notes
+
 Rate of anomalies will double after some time
-This map has jump scares and flashing discretion is advised
+
+This map has jump scares and flashing lights, discretion is advised
+
 Please do not take claim anything from this map as your own
 
 # 1.0.2 - Win Win Win!
